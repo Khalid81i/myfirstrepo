@@ -1,6 +1,6 @@
 # Master answer bank — Khalid Dallol
 
-Reusable answers for graduate electrical / electronic / automation / controls applications. Everything here is drawn from the CV in `cv.md`. Items in **[square brackets]** are gaps the CV does not cover: fill them once and reuse.
+Reusable answers for graduate electrical / electronic / automation / controls applications. Drawn from the CV in `cv.md` plus Khalid's confirmed candidate information. Remaining items in **[square brackets]** are the only gaps left: fill them once and reuse.
 
 ---
 
@@ -14,16 +14,24 @@ Fill these in once, then paste.
 | Email | [your application email] |
 | Phone | [mobile] |
 | Address / postcode | [address] |
-| Right to work in the UK | [British citizen / settled status / visa type and expiry] |
-| Need sponsorship? | [yes / no] |
-| Driving licence | [full UK / provisional / none] |
-| Willing to relocate | [yes / specific regions] |
-| Earliest start date | [date] |
-| Notice period | [e.g. 4 weeks, current NHS role] |
+| Nationality | British |
+| Right to work in the UK | Yes, unrestricted |
+| UK visa required | No |
+| Need sponsorship? | No |
+| Driving licence | Working towards full UK licence; theory test passed |
+| Current location | Birmingham / West Midlands |
+| Preferred locations | Birmingham / West Midlands first; also London, Manchester, Leeds, Liverpool, Bristol and other UK locations |
+| Willing to relocate | Yes, for the right opportunity |
+| International | Open to Saudi Arabia and Kuwait, subject to work authorisation |
+| Earliest start date | Immediately |
+| Notice period | None |
 | Salary expectation | "In line with the advertised graduate rate" or [£ figure] |
 | LinkedIn / GitHub | [URLs] |
 | Disability / adjustments | [as you choose] |
 | How did you hear about us | Gradcracker |
+
+**Standard right-to-work paragraph:**
+I am a British citizen with unrestricted right to work in the United Kingdom and do not require visa sponsorship. I have no notice period and am available to start immediately. I am based in the West Midlands and am willing to relocate for suitable opportunities. I am currently working towards my full UK driving licence and have passed my theory test.
 
 ### Education (as forms usually want it)
 
@@ -34,12 +42,15 @@ Fill these in once, then paste.
 | Dates | Sep 2022 – 2026 |
 | Classification | Upper Second-Class Honours (2:1) |
 | Dissertation / final-year project | Double-Sided LCL-Compensated Capacitive Power Transfer (MATLAB modelling and simulation) |
-| Key modules | [list 4–6: e.g. Control Systems, Power Electronics, Embedded Systems, Signals and Systems, Electrical Machines, Digital Electronics] |
-| College | Solihull College, Extended Diploma in Engineering (Aerospace/Aeronautical), DMM, 2020–2022 |
+| Key modules | Power Systems; Control and Instrumentation; Electrical Circuits; Analogue Electronics; Digital and Embedded Systems; Communications; Programming; Engineering Mathematics |
+| College | Solihull College, Level 3 Extended Diploma in Aeronautical Engineering, DMM, 2020–2022 |
 | UCAS points (DMM) | 112 |
-| GCSE Maths | [grade] |
-| GCSE English | [grade] |
-| Other GCSEs | [count and grades] |
+| GCSE Mathematics | 4 |
+| GCSE English Language | 7 |
+| GCSE English Literature | 5 |
+| Other GCSEs | [count and grades, if a form insists] |
+
+Note: a few schemes set GCSE Maths at grade 5 or B minimum. Where the listing states that, mark it `skipped-ineligible` rather than apply.
 
 ### Employment history (chronological, for forms with separate job entries)
 
@@ -48,7 +59,8 @@ Fill these in once, then paste.
 3. **Electronics Intern**, Pike Works Ltd, Birmingham, Aug – Sep 2022. Supported electronics testing and practical engineering work.
 4. Customer-facing roles at Homebase and McDonald's [dates].
 
-Forms sometimes flag the NoorDX and NHS overlap. If asked: [state how, e.g. "NoorDX was a remote/contract role alongside part-time NHS work"].
+**If a form or interviewer asks about the NoorDX / NHS overlap:**
+During my time working with the NHS, I also undertook a remote Data and Bioinformatics Specialist role with NoorDX between July 2025 and May 2026. The NoorDX position was remote, which allowed me to maintain both professional responsibilities during the overlapping period. The roles provided complementary experience: my NHS work strengthened my communication, operational coordination and ability to work in a regulated environment, while NoorDX developed my technical and analytical skills in data processing, automation and quality assurance. Managing both also strengthened my organisation and ability to balance different professional responsibilities.
 
 ---
 
@@ -99,6 +111,8 @@ In five years I want to be a chartered or near-chartered engineer who owns the c
 Use the headings as the "Situation / Task / Action / Result" scaffold. Each is 150–250 words; trim to the limit.
 
 ### Teamwork — "Describe a time you worked effectively in a team."
+Primary example: the six-person university project under **Leadership** below works for teamwork, pressure and leadership questions. Use the NoorDX example here when the form asks for teamwork and leadership separately.
+
 **Situation:** At NoorDX I worked in a multidisciplinary team of biologists, clinicians and data specialists, each with different vocabularies and priorities.
 **Task:** We needed genomic datasets cleaned and validated to a standard the analysts could trust, on a schedule set by the clinical side.
 **Action:** I agreed the quality checks with the analysts up front so we shared a definition of "clean", built the pipeline in Bash so it was reproducible rather than one-off, and documented each stage so a colleague could rerun or audit it without me. When a dataset failed a check I raised it with the relevant specialist rather than guessing at a fix.
@@ -146,13 +160,21 @@ Use the headings as the "Situation / Task / Action / Result" scaffold. Each is 1
 **Action:** I developed it incrementally, getting each sensor and subsystem working and verified before integrating, and used systematic debugging when readings or behaviour did not match expectations, checking wiring, timing and code in turn.
 **Result:** A working prototype and a much clearer understanding of the gap between a design that is correct on paper and one that works on a bench.
 
-### Failure / setback — "Describe a time something went wrong."
-[CV does not give one. Pick a real example, ideally from the power-transfer project or HomeAir: what went wrong, what you did, what you changed afterwards. Employers want the reflection more than the event. Draft:]
-**Situation:** [...] **Task:** [...] **Action:** [...] **Result and learning:** [...]
+### Failure / setback / adaptability — "Describe a time something went wrong" or "a challenge you overcame"
+**Situation:** During my final-year dissertation, conflict in the Middle East disrupted access to the physical components and materials I had intended to order, so the hardware-based approach I had planned became impractical.
+**Task:** I still had to complete the project to a strong academic standard without the materials my original design depended on.
+**Action:** Rather than let the project stall, I re-scoped it around MATLAB simulation. That turned out to be more technically demanding than I expected: I had to model the system's behaviour mathematically, build the simulation with a custom RK4 ODE solver, troubleshoot unexpected results and verify that the model produced reliable outputs. I broke the work into smaller stages, tested individual parts against known behaviour and refined the simulation until I could evaluate the system properly.
+**Result:** I completed the project using a simulation-based approach and came out of it with much stronger numerical modelling, problem-solving and independent research skills. The lesson I took is that unexpected circumstances do not have to sink a project if I am willing to change approach and learn new methods quickly.
 
-### Leadership
-[CV does not give a clear example. If you led anything at university, in a project group, or trained new staff at the surgery (onboarding support is on the CV), use that. Draft:]
-**Situation:** Supporting onboarding of new staff at the surgery. **Task:** [...] **Action:** [...] **Result:** [...]
+Interview recall points: Middle East conflict blocked procurement; original approach impractical; pivoted to MATLAB; simulation harder than expected; structured testing; completed anyway.
+
+### Leadership / working under pressure — "Describe a time you showed leadership"
+**Situation:** In a six-person university group project, four members became unavailable at a critical stage through illness or absence, leaving two of us with the remaining workload.
+**Task:** Deliver the project on time and to a high standard with a third of the planned team.
+**Action:** I stepped up to lead. We dropped the original plan, identified which deliverables mattered most and divided the outstanding work between the two of us. I kept communication going, monitored progress against the deadline and made sure the separate parts came together into a coherent submission. It meant staying organised, making practical decisions under pressure and taking responsibility well beyond my original share.
+**Result:** We completed the project and it was awarded a first-class mark. It gave me confidence in leading under pressure and showed me how much adaptability, communication and ownership matter when circumstances change.
+
+Interview recall points: six-person team; four absent; two remained; took the lead; reprioritised; divided work; first-class mark.
 
 ---
 
@@ -163,8 +185,10 @@ Use the headings as the "Situation / Task / Action / Result" scaffold. Each is 1
 - **What motivates you:** Seeing a model or a design become a physical system that behaves as predicted, and leaving behind documentation that lets someone else pick it up.
 - **What do you do outside work/study:** [add: hobbies, sport, societies, volunteering]
 - **Describe yourself in three words:** Methodical, curious, dependable.
-- **Technical skills summary (for tick-box or free-text fields):** MATLAB/Simulink; Python; C/C++ (embedded, ESP32); C#; Bash and Linux; Git/GitHub; control systems and PID fundamentals; electronics testing; numerical modelling (ODE/RK4); technical documentation; Microsoft Office.
-- **Software/tools you have used:** MATLAB, Python, C/C++, C#, Bash, Linux, Git, GitHub, Microsoft Office, Arduino/ESP32 toolchain. [Add Simulink, LTspice, Multisim, KiCad, Altium, TIA Portal, LabVIEW only if true.]
+- **Tell me about yourself / professional summary:** I am a British Electrical and Electronic Engineering graduate from the University of Greenwich with a 2:1, graduating in 2026. My background combines engineering, software, data analysis, healthcare operations and leadership. I have worked within the NHS since 2021 in administration, compliance, recruitment support and operational coordination, and I worked remotely as a Data and Bioinformatics Specialist at NoorDX building data validation and automation workflows. Alongside that I have completed technical projects using MATLAB, Python, SQL, simulation and data analysis, and I helped lead a six-person university team through serious staffing problems to a first-class result. I am immediately available, need no sponsorship and am open to relocating.
+- **Why should we hire you?** I bring the engineering qualification the role needs, hands-on technical experience in modelling, embedded systems and data workflows, and something most graduates do not have: five years of operational responsibility in a regulated NHS environment, including leading and organising work under pressure. I am available immediately and will relocate.
+- **Technical skills summary (for tick-box or free-text fields):** MATLAB/Simulink; Python; SQL; C/C++ (embedded, ESP32); C#; Bash and Linux; Git/GitHub; control systems and PID fundamentals; electronics testing; numerical modelling (ODE/RK4); technical documentation; Microsoft Office.
+- **Software/tools you have used:** MATLAB, Python, SQL, C/C++, C#, Bash, Linux, Git, GitHub, Microsoft Office, Arduino/ESP32 toolchain. [Add Simulink, LTspice, Multisim, KiCad, Altium, TIA Portal, LabVIEW only if true.]
 
 ---
 
@@ -185,13 +209,24 @@ Khalid Dallol
 
 ---
 
-## 7. Things to decide once (so the local session doesn't ask each time)
+## 7. Interview answer selection guide
 
-- Right to work and sponsorship status.
-- Preferred locations and whether you will relocate anywhere in the UK.
-- Earliest start date and notice period.
-- Driving licence.
-- GCSE Maths and English grades, and A-level equivalents (DMM = 112 UCAS points).
-- A failure/setback story and a leadership story (section 4).
-- Which "key modules" to list.
+| Question | Use |
+|---|---|
+| Tell me about yourself | Professional summary (section 5) |
+| Challenge you overcame / failure / setback / adaptability | Dissertation procurement pivot to MATLAB |
+| Leadership / working under pressure / teamwork | Six-person project, four absent, first-class mark |
+| Teamwork (when leadership asked separately) | NoorDX multidisciplinary team |
+| Problem solving | MATLAB dissertation, or NHS tracking improvement |
+| Managing multiple responsibilities | NHS and remote NoorDX overlap |
+| Why should we hire you | Section 5 answer |
+| When can you start | Immediately, no notice period |
+| Sponsorship | No, British citizen with unrestricted right to work |
+
+## 8. Remaining gaps to fill once
+
+- Application email, phone, address and postcode.
+- LinkedIn / GitHub URLs if you want to give them.
+- Salary expectation if a form forces a number.
 - Hobbies / interests line.
+- Dates for Homebase and McDonald's if a form wants the full history.
