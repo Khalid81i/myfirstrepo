@@ -2,7 +2,8 @@
 
 **Graduate Electrical / Automation / Controls Engineer**
 
-United Kingdom \| Contact details available on application
+Birmingham, UK \| 07833 357277 \| kwa7sh55@gmail.com \|
+linkedin.com/in/khalid-dallol-450952227 \| github.com/Khalid81i
 
 **PROFILE**
 
@@ -23,11 +24,21 @@ Numerical modelling • Git/GitHub • Linux • Technical documentation
 **EDUCATION**
 
 **BEng (Hons) Electrical and Electronic Engineering --- Upper
-Second-Class Honours (2:1)**\
+Second-Class Honours (2:1), awarded 2026**\
 University of Greenwich \| 2022--2026
 
-**Extended Diploma in Engineering (Aerospace/Aeronautical) --- DMM**\
+> • Key modules: Power Systems; Control and Instrumentation;
+> Electrical Circuits; Analogue Electronics; Digital and Embedded
+> Systems; Communications; Programming; Engineering Mathematics.
+>
+> • Final-year project: Double-Sided LCL-Compensated Capacitive Power
+> Transfer (MATLAB modelling and simulation).
+
+**Level 3 Extended Diploma in Aeronautical Engineering (A-level
+equivalent) --- DMM (Distinction, Merit, Merit; 112 UCAS points)**\
 Solihull College \| 2020--2022
+
+**GCSEs:** English Language (7), English Literature (5), Mathematics (4)
 
 **RELEVANT PROJECTS**
 
@@ -44,8 +55,8 @@ ESP32 hardware, combining sensing, system logic and practical debugging.
 
 **EXPERIENCE**
 
-**Nominated Individual / Medical Receptionist** \| Strensham Road
-Surgery, NHS \| Jun 2021--Present
+**Medical Receptionist** \| Strensham Road Surgery, NHS \| Jun
+2021--Present
 
 > • Coordinate day-to-day administrative workflows in a regulated
 > healthcare environment, handling patient enquiries, records and
@@ -58,8 +69,8 @@ Surgery, NHS \| Jun 2021--Present
 > • Use Microsoft Office and structured tracking to improve visibility
 > of operational and compliance tasks.
 
-**Data / Bioinformatics Specialist** \| NoorDX, Jeddah \| Jul 2025--May
-2026
+**Bioinformatics Intern (remote)** \| Noor Diagnostics and Discovery
+(NoorDX) \| Jul 2025--May 2026
 
 > • Cleaned, normalised, validated and filtered large genomic datasets
 > using Bash and command-line tools, with a strong focus on data
