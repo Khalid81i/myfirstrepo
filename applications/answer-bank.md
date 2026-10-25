@@ -1,6 +1,6 @@
 # Master answer bank — Khalid Dallol
 
-Reusable answers for graduate electrical, electronic, automation and controls applications. Updated with confirmed candidate details on 25 October 2026. Square-bracketed fields in company-specific templates are intentional and should be tailored to each vacancy. Only the postcode and any additional GCSEs requested by a form remain unconfirmed.
+Reusable answers for graduate electrical, electronic, automation and controls applications. Updated with confirmed candidate details on 25 October 2026. Square-bracketed fields in company-specific templates are intentional and should be tailored to each vacancy. Only any additional GCSEs requested by a form remain unconfirmed.
 
 ---
 
@@ -13,7 +13,7 @@ Copy the relevant field into an application. Check any role-specific requirement
 | Full name | Khalid Dallol |
 | Email | kwa7sh55@gmail.com |
 | Phone | 07833 357277 |
-| Address | 6 Clarence Grove (postcode not provided) |
+| Address | 6 Clarence Grove, Shirley, Solihull, West Midlands, B90 3HZ |
 | Nationality | British |
 | Right to work in the UK | Yes, unrestricted |
 | UK visa required | No |
@@ -47,8 +47,8 @@ I am a British citizen with unrestricted right to work in the United Kingdom and
 | Key modules | Power Systems; Control and Instrumentation; Electrical Circuits; Analogue Electronics; Digital and Embedded Systems; Communications; Programming; Engineering Mathematics |
 | College | Solihull College, Level 3 Extended Diploma in Aeronautical Engineering, DMM, 2020–2022 |
 | UCAS points (DMM) | 112 |
-| GCSE Mathematics | 4 |
-| GCSE English Language | 7 |
+| GCSE Mathematics | 4 (2019) |
+| GCSE English Language | 7 (2019) |
 | GCSE English Literature | 5 |
 | Other GCSEs | Not provided; supply additional results only if requested |
 
@@ -303,7 +303,6 @@ Khalid Dallol
 
 ## 8. Remaining checks before applying
 
-- **Postcode:** The street address (6 Clarence Grove) is confirmed, but the postcode was not provided. Add it only when required and verified.
 - **Additional GCSEs:** Include any other subjects and grades only when a form requests them.
 - **Application-specific tailoring:** Replace [Company], [Role], [Hiring Manager] and any company-specific examples with details from the actual advert.
 - **Disclosure and source fields:** Give your preferred answer about adjustments, and list the actual vacancy source rather than assuming Gradcracker.
