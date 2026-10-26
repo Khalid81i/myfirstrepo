@@ -1,4 +1,7 @@
 # LinkedIn Easy Apply queue — the daily limit was hit 2026-10-26. Resume from the top. Format: id | title | company
+4481571493 | Graduate Hardware Engineer | Octopus Energy (answers in user-written-answers.md)
+4482057541 | Junior Systems & Field Engineer | Netcalibre (tinkering answer ready)
+4479509877 | FPGA Engineer - Quantum Networking | Nu Quantum (answer ready)
 4468166426 | Associate Software Development Engineer (June 2027) | Clearwater Analytics
 4435122685 | Graduate Layout Engineer | IC Resources
 4479056526 | Junior / Graduate AI Engineer | Enablis (London)

@@ -39,7 +39,7 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 | CBG Consultants | Graduate M&E Engineers (Oxford/London/Cambridge/Manchester/Birmingham; licence not required) | https://cbgc.com/careers/graduate-mechanical-and-electrical/ | Apply by email: download the form (https://cbgc.com/wp-content/uploads/2018/02/APPLICATION-FORM-Graduate-2026.docx), fill it and email it with a covering letter to jobs@cbgc.com. I can't send email from your account. |
 | Tilbury Douglas | Graduate Commissioning Engineer (Oxford), Graduate MEICA Engineer (Exeter). Deadline 13 Nov 2026. Licence or "working towards by Feb 2027" accepted | https://careers.tilburydouglas.co.uk/jobs/vacancy/graduate-commissioning-engineer-13623-oxford/13652/description/ | Account-based portal. |
 
-## LinkedIn Easy Apply — your words needed (added 2026-10-26)
+## LinkedIn Easy Apply — answers received 2026-10-26 (see user-written-answers.md); submit when daily limit resets
 - **Octopus Energy – Graduate Hardware Engineer** (https://www.linkedin.com/jobs/view/4481571493/): your "why Octopus" answer is saved and gets filled in automatically. It still needs: *"What is your favourite green / smart invention and why?"* (there are 9 pages, so more may follow).
 - **Netcalibre – Junior Systems & Field Engineer** (https://www.linkedin.com/jobs/view/4482057541/): *"Tell us what you've been tinkering with: a home lab, a project you're proud of, something you broke and fixed…"* (there's also an optional extra upload).
 - **Nu Quantum – FPGA Engineer, Quantum Networking (Early Career)** (https://www.linkedin.com/jobs/view/4479509877/): *"What interests you about this role as an FPGA Design Engineer at Nu Quantum?"*
@@ -47,9 +47,6 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 - **One Big Circle – Junior Device Software Developer** (Bristol, https://www.linkedin.com/jobs/view/4408403004/): it asks which area of Bristol you live in. Skipped, since you're in Solihull. Apply yourself if you'd relocate.
 
 ## Regular LinkedIn listings (company sites) — your input needed (2026-10-26)
-- **TTP – Graduate Consultant, Electronic Engineering 2027** (SmartRecruiters): https://jobs.smartrecruiters.com/TTP1/744000149034860 — asks *"Please tell us why you would like to work at TTP, and why you are a strong candidate for this role."* Everything else was filled automatically.
-- **Advania – Junior Infrastructure Engineer** (London, Teamtailor): https://belong.advania.co.uk/jobs/8610432-junior-infrastructure-engineer — required *"Why are you interested in this role and what would you bring?"*
 - **DALS – Junior Data Analyst** (Stretford, Cezanne/Occupop): https://dals.occupop-careers.com/jobs/1f7b0fc8-88fc-4763-b14c-6d73cc2932fd/apply — the form was filled in but the Apply button didn't respond (no error shown). Please try submitting it yourself.
 - **Camlin – Junior Firmware Engineer** (Lisburn, Rippling): https://ats.rippling.com/camlin-careers/jobs/a38cfe2d-0419-440d-b096-ce290a779fa6 — fully filled in the browser, but Apply waits on a Cloudflare human check. Click Apply yourself (refill if the page has reset).
-- **Bloom & Wild – Junior Full Stack Engineer** (London, Lever): https://jobs.lever.co/bloomon/7f832927-5c83-4fe9-9e7a-52de0fea57dd/apply — required *"Please tell us why you'd love to join us!"*
 - Skipped (driving licence essential): Glanua Electrical Engineering Graduate Programme (Leeds), NeoDyne 2027 Graduate Engineering Programme (Chesterfield — licence within 12 months; apply yourself if you expect to pass by then).
