@@ -28,6 +28,7 @@ Copy the relevant field into an application. Check any role-specific requirement
 | International | Open to Saudi Arabia and Kuwait, subject to work authorisation |
 | Earliest start date | Immediately |
 | Notice period | None |
+| Current salary | £9,744 per year, no bonus (NHS receptionist, stated 2026-10-26) |
 | Salary expectation | £30,000–£40,000 depending on the role, responsibilities and location |
 | LinkedIn | https://www.linkedin.com/in/khalid-dallol-450952227/ |
 | GitHub | https://github.com/Khalid81i |
