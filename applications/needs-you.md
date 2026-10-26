@@ -23,3 +23,4 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 | Graphcore | Graduate Software Engineer, Drivers and Utilities 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894887002 | 300 words: a systems software project, (a) most interesting thing learned, (b) what you'd do differently |
 | Riverlane | Engineering Graduate Scheme 2027 (submitted) | https://job-boards.eu.greenhouse.io/riverlane/jobs/5000685101 | My mistake: the optional EDI "gender" dropdown saved as Female instead of Male. You may want to email Riverlane recruitment to correct it. |
 | PA Consulting | Other 2027 graduate roles | - | PA allows only ONE early-careers application per year; you already applied (Electronic Engineer), so I skipped the rest. |
+| Palantir | 6 London New Grad roles (SWE, FDSE, Infra) | https://jobs.lever.co/palantir | Form has CAPTCHA + asks High School name (not in answer bank) |
