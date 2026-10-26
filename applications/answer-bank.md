@@ -30,6 +30,8 @@ Copy the relevant field into an application. Check any role-specific requirement
 | GitHub | https://github.com/Khalid81i |
 | Disability / adjustments | Disclose only if you wish; answer each form individually |
 | How did you hear about us | State the actual source for that application (e.g. Gradcracker if applicable) |
+| Criminal convictions | None (no unspent convictions) |
+| Degree accreditation | Accredited (ticked IET where a body is asked) |
 | Equality monitoring (user-confirmed) | Male; Any other ethnic group – Arab; Religion: Muslim; Sexual orientation: prefer not to say; not married; no disability; household earner at 14: management; NI community: neither Protestant nor Roman Catholic |
 
 **Standard right-to-work paragraph:**
