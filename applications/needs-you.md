@@ -14,3 +14,12 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 | Employer | Role | Link | What's needed |
 |---|---|---|---|
 | Hoare Lea | 2027 Graduate Electrical Engineer (12 offices incl. Birmingham) | https://hoarelea.mua.hrdepartment.com/hr/ats/JobSeeker/createAccount | Create account |
+
+## Your input needed (added 2026-10-26 night)
+| Employer | Role | Link | What's needed |
+|---|---|---|---|
+| Graphcore | Graduate Infrastructure Solutions Engineer 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894042002 | Upload a technical drawing + 200-word description of it |
+| Graphcore | Graduate SoC Architecture Engineer 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894348002 | Same: technical drawing + 200-word description |
+| Graphcore | Graduate Software Engineer, Drivers and Utilities 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894887002 | 300 words: a systems software project, (a) most interesting thing learned, (b) what you'd do differently |
+| Riverlane | Engineering Graduate Scheme 2027 (submitted) | https://job-boards.eu.greenhouse.io/riverlane/jobs/5000685101 | My mistake: the optional EDI "gender" dropdown saved as Female instead of Male. You may want to email Riverlane recruitment to correct it. |
+| PA Consulting | Other 2027 graduate roles | - | PA allows only ONE early-careers application per year; you already applied (Electronic Engineer), so I skipped the rest. |
