@@ -42,3 +42,16 @@ I use AI tools and automation to streamline administrative tasks, analyse data a
 
 ## ION – Why the Leadership Development Programme? (≤100 words)
 ION’s Leadership Development Programme appeals to me because its three rotations offer the opportunity to explore how technology, data and business strategy connect within financial services. Having graduated with a 2:1 in Electrical and Electronic Engineering, I’ve developed strong analytical, problem-solving and leadership skills through technical projects and professional experience. I’m particularly interested in the Business Intelligence, Data Analytics and Product Strategy rotations. ION’s focus on innovation and automation aligns with my interests, and I’m excited by the opportunity to contribute to meaningful projects while developing into a well-rounded professional and future leader.
+
+## Technical drawing description (Graphcore, ≤200 words) — drawing: CPT-Technical-Drawing-Khalid-Dallol.png/.pdf
+Project: Reproduction and Simulation of a Capacitive Power Transfer System Using MATLAB
+
+For my final-year Electrical and Electronic Engineering dissertation at the University of Greenwich, I independently reproduced and analysed a double-sided LCL-compensated capacitive power transfer system based on published research.
+
+The system used a full-bridge inverter, resonant compensation networks and a four-plate capacitive coupler to investigate wireless energy transfer across a 150 mm air gap at a switching frequency of 1 MHz.
+
+I developed a MATLAB simulation using a nine-state nonlinear differential equation model and a fourth-order Runge-Kutta numerical solver. I modelled circuit behaviour, incorporated component losses and analysed the system’s voltage response.
+
+One of the main challenges was translating the theoretical circuit into a functioning numerical model and troubleshooting differences between simulated and reference results. The completed simulation produced an output voltage of approximately 261.6 V, within 3.2% of the 270 V reference.
+
+The project strengthened my understanding of power electronics, circuit modelling, numerical methods, technical documentation and independent engineering problem-solving.
