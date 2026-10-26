@@ -17,6 +17,7 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 ## Your input needed (added 2026-10-26 night)
 | Employer | Role | Link | What's needed |
 |---|---|---|---|
+| Motion Applied (ex-McLaren Applied) | Graduate Quality Engineer (Camberley, electronics/motorsport) | https://applied.bamboohr.com/careers/521 | Fully filled in the Claude browser's first tab; only the "I'm not a robot" tick + Submit Application are left (I can't do CAPTCHAs). If the tab was closed: re-enter name/email/phone/address, County West Midlands, upload CV, Desired pay £30,000-£40,000, accessibility 'No', tick consent. |
 | Graphcore | Graduate Infrastructure Solutions Engineer 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894042002 | Upload a technical drawing + 200-word description of it |
 | Graphcore | Graduate SoC Architecture Engineer 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894348002 | Same: technical drawing + 200-word description |
 | Graphcore | Graduate Software Engineer, Drivers and Utilities 2027 | https://job-boards.greenhouse.io/graphcore/jobs/8894887002 | 300 words: a systems software project, (a) most interesting thing learned, (b) what you'd do differently |
