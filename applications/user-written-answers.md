@@ -34,3 +34,11 @@ Recently, I've been experimenting with home networking, including TP-Link equipm
 
 ## Nu Quantum – What interests you about the FPGA Engineer role?
 I'm particularly interested in this role because it combines digital electronics, FPGA development and real-time control with emerging quantum technologies. During my Electrical and Electronic Engineering degree, I gained experience with VHDL, finite state machines and digital system design, which sparked my interest in programmable hardware. The opportunity to develop and verify FPGA systems that support scalable quantum networking is especially exciting. I'd love to build on my existing knowledge while learning from engineers and physicists working at the forefront of this technology.
+
+## Seccl – How are you using automation or AI tools in your current role?
+I use AI tools and automation to streamline administrative tasks, analyse data and improve efficiency. In my healthcare role, I’ve explored ways to simplify repetitive processes, organise information and reduce manual workload, allowing more time to focus on patient care and operational priorities.
+
+(Facts: owns a Mac → Mac/macOS experience Yes; no joiners/movers/leavers experience.)
+
+## ION – Why the Leadership Development Programme? (≤100 words)
+ION’s Leadership Development Programme appeals to me because its three rotations offer the opportunity to explore how technology, data and business strategy connect within financial services. Having graduated with a 2:1 in Electrical and Electronic Engineering, I’ve developed strong analytical, problem-solving and leadership skills through technical projects and professional experience. I’m particularly interested in the Business Intelligence, Data Analytics and Product Strategy rotations. ION’s focus on innovation and automation aligns with my interests, and I’m excited by the opportunity to contribute to meaningful projects while developing into a well-rounded professional and future leader.
