@@ -45,3 +45,9 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 - **Nu Quantum – FPGA Engineer, Quantum Networking (Early Career)** (https://www.linkedin.com/jobs/view/4479509877/): *"What interests you about this role as an FPGA Design Engineer at Nu Quantum?"*
 - **Precision Acoustics**: applied via Easy Apply, but the advert also says to apply by emailing jobs@acoustics.co.uk. Optionally send your CV there too.
 - **One Big Circle – Junior Device Software Developer** (Bristol, https://www.linkedin.com/jobs/view/4408403004/): it asks which area of Bristol you live in. Skipped, since you're in Solihull. Apply yourself if you'd relocate.
+
+## Regular LinkedIn listings (company sites) — your input needed (2026-10-26)
+- **TTP – Graduate Consultant, Electronic Engineering 2027** (SmartRecruiters): https://jobs.smartrecruiters.com/TTP1/744000149034860 — asks *"Please tell us why you would like to work at TTP, and why you are a strong candidate for this role."* Everything else was filled automatically.
+- **General Dynamics – Junior Systems Integration Engineer** (Oakdale, SmartRecruiters): https://jobs.smartrecruiters.com/GDMSI/744000156793320 — security questions: *"Have you travelled outside of the UK for a **total** of six months or more during the last 3 years?"* It also asks for your current/most recent job title (I'd put Medical Receptionist). Tell me the travel answer and I'll submit.
+- **Advania – Junior Infrastructure Engineer** (London, Teamtailor): https://belong.advania.co.uk/jobs/8610432-junior-infrastructure-engineer — required *"Why are you interested in this role and what would you bring?"*
+- **DALS – Junior Data Analyst** (Stretford, Cezanne/Occupop): https://dals.occupop-careers.com/jobs/1f7b0fc8-88fc-4763-b14c-6d73cc2932fd/apply — the form was filled in but the Apply button didn't respond (no error shown). Please try submitting it yourself.
