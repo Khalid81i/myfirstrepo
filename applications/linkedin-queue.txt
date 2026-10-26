@@ -44,3 +44,9 @@
 4417609859 | Junior Application Support Engineer | Quant Capital
 4479524400 | Junior DevOps Engineer | HCLTech
 4479296336 | Graduate Design Engineer | Triumph Motorcycles
+# IT / data roles added 2026-10-26
+4478979336 | Junior Data Scientist | (Easy Apply)
+3830991172 | Entry Level Consulting Analyst | (Easy Apply)
+4483238233 | Graduate Business Analyst (Management Sciences) | (Easy Apply)
+4482871196 | Junior Market Research (insight) | (Easy Apply)
+4476644693 | AI & Business Solutions Graduate | Beaconsfield (Easy Apply)
