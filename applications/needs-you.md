@@ -5,10 +5,10 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 ## Sign in / register
 | Employer | Role | Link | What's needed |
 |---|---|---|---|
-| EET Fuels | Graduate Electrical Engineer + Graduate C&I Engineer | https://career2.successfactors.eu/careers?company=essaroiluk | Sign in (account activated) |
-| Network Rail | Electrical Engineering Graduate Scheme 2027 | https://networkrailcandidate.ambertrack.global/graduates2027/Login.aspx | Register / sign in |
-| Tetra Tech | Graduate Electrical Engineer (Belfast) | https://tetratech.taleo.net/careersection/2/jobapply.ftl?job=78700000274 | Separate Taleo login |
-| Binnies | Graduate Electrical Engineer - Delivery | https://binnies.current-vacancies.com/OneAccount | Click verification email, then Submit (all filled) |
+| EET Fuels | Graduate Electrical Engineer + Graduate C&I Engineer | https://career2.successfactors.eu/careers?company=essaroiluk | Still shows "Sign In" in the Claude browser (checked 2026-10-27). Sign in there, then tell me. |
+| Network Rail | Electrical Engineering Graduate Scheme 2027 | https://networkrailcandidate.ambertrack.global/graduates2027/Login.aspx | Login page sends me to "Continue Registration", so the browser is not signed in. Sign in there. |
+| Burns & McDonnell | Graduate Protection & Control Engineer - T&D (Glasgow) | https://apply.burnsmcd.com/apply?section=bm-uk-external&job=265047 | Asks for email/login again: not signed in in the Claude browser. |
+| Komatsu UK | Graduate Engineer Sept 2027 (Birtley, £35k; Mech/Mechatronics "or related"). Closes 15 Nov | https://ce0878li.webitrent.com/ce0878li_webrecruitment/wrd/run/ETREC179GF.open?VACANCY_ID=6846764Pfc&WVID=5109932CaF | Komatsu's own iTrent portal needs an account (Create an account). Screening answered Yes/Yes/Yes. |
 
 ## Sign-up needed (new)
 | Employer | Role | Link | What's needed |
@@ -29,9 +29,6 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 | Optiver | Graduate Quantitative Researcher (submitted) | check kwa7sh55@gmail.com | Optiver will email an online assessment - complete within 7 calendar days, on your own (no AI tools). |
 | Akuna Capital | Junior Trader (submitted) | check kwa7sh55@gmail.com | Akuna sends an online assessment that must be completed within their timeframe (you acknowledged this on the form). |
 | M Group | Graduate Network Engineer (Farnborough, Telecoms) - no driving licence needed. Deadline 30 Oct 2026 | https://jobs.mgroupltd.com/vacancies/49768/graduate-network-engineer.html | Your M Group account was not signed in in the browser. Sign in and apply (other new M Group grad roles all require a licence). |
-| Komatsu UK | Graduate Engineer Sept 2027 (Birtley/Newcastle, £35k). Closes 15 Nov 2026 | https://targetjobs.co.uk/jobs/graduate-engineer-sept-2027-249973 | Apply button needs a targetjobs login. Advert targets Mechanical/Mechatronics. |
 | Accenture (ACTION) | I submitted TWO Accenture graduate applications (Digital Engineering, Manufacturing & Supply Chain - London; and Birmingham Software Engineering). Accenture's rule is one role in one location per year - my mistake. | https://accenture.pinpointhq.com | When Accenture emails you, ask them to withdraw the Birmingham Software Engineering application and keep Digital Engineering (or tell me which to keep). I declared the first application on the second form, so it is transparent. |
 | CBG Consultants | Graduate M&E Engineers (Oxford/London/Cambridge/Manchester/Birmingham; licence not required) | https://cbgc.com/careers/graduate-mechanical-and-electrical/ | Apply by email: download the form (https://cbgc.com/wp-content/uploads/2018/02/APPLICATION-FORM-Graduate-2026.docx), fill it and email it with a covering letter to jobs@cbgc.com. I can't send email from your account. |
 | Tilbury Douglas | Graduate Commissioning Engineer (Oxford), Graduate MEICA Engineer (Exeter). Deadline 13 Nov 2026. Licence or "working towards by Feb 2027" accepted | https://careers.tilburydouglas.co.uk/jobs/vacancy/graduate-commissioning-engineer-13623-oxford/13652/description/ | Account-based portal. |
-| NPL | Graduate Engineer - IT Platforms & Cyber; Graduate Engineer - Security Research & Testing | https://jobs.npl.co.uk/vacancies/3024/graduate-engineer--it-platforms-and-cyber.html | Account-based portal (Eploy). |
-| Burns & McDonnell | Graduate Protection & Control Engineer - Transmission & Distribution (Glasgow). Ongoing | https://apply.burnsmcd.com/apply?section=bm-uk-external&job=265047 | Registration (account) required. Strong EEE fit (substations, National Grid/ScottishPower clients). |
