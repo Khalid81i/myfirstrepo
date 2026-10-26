@@ -15,6 +15,7 @@ Copy the relevant field into an application. Check any role-specific requirement
 | Phone | 07833 357277 |
 | Address | 6 Clarence Grove, Shirley, Solihull, West Midlands, B90 3HZ |
 | Nationality | British |
+| Date of birth | 26 July 2003 (stated 2026-10-26) |
 | Country of birth | United Kingdom (confirmed 2026-10-26) |
 | Wise customer | No (confirmed 2026-10-26) |
 | Can reach sites hard to reach by public transport | Yes (confirmed 2026-10-26) |
@@ -314,3 +315,4 @@ Khalid Dallol
 - **Application-specific tailoring:** Replace [Company], [Role], [Hiring Manager] and any company-specific examples with details from the actual advert.
 - **Disclosure and source fields:** Give your preferred answer about adjustments, and list the actual vacancy source rather than assuming Gradcracker.
 - **Technical troubleshooting detail:** The MATLAB STAR example avoids asserting an unverified single fault cause; tailor further only if you can accurately describe a particular issue from the project.
+| Kuwait salary expectation | KWD 400–500 per month (stated 2026-10-26; 450 where a single number is needed) |

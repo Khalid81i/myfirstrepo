@@ -48,7 +48,6 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 - Skipped (driving licence essential): Glanua Electrical Engineering Graduate Programme (Leeds), NeoDyne 2027 Graduate Engineering Programme (Chesterfield — licence within 12 months; apply yourself if you expect to pass by then).
 
 ## Kuwait (2026-10-26)
-- **Majid Al Futtaim – Officer, IT (Kuwait, 0–2 yrs)**: form filled up to page 2, which needs your **date of birth** and an **expected salary in KWD** (number). Send both and I'll finish it: https://careers.majidalfuttaim.com/global/en/job/22832/Officer-Information-Technology
 - Account-only (sign up yourself if you want them): SLB Early Careers – Field Operations (apply.slb.com), stc Kuwait Talent Pipeline – Technology / AI & Data Science (stckw.taleo.net jobs 21183, 21203), GulfTalent / Naukrigulf junior engineer listings.
 - LinkedIn Easy Apply (Kuwait, queue for when the daily limit resets): 4470859329 IT Officer (0–2 yrs), 4474679826 Field IT Support Engineer, 4473602860 Strategy Specialist I, 4483522832 API & Integration Developer, 4479795479 Junior Shopify Front-End Developer, 4471080902 Data Scientist (internship).
 - Excluded: most "junior" Kuwait posts ask for 3–7 yrs (PMI Graduate Trainee 3–4 yrs, Halliburton, KDD, KCS, Accenture SOC 1–3 yrs) or are Kuwaiti-nationals-only.
