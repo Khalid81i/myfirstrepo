@@ -15,6 +15,9 @@ Copy the relevant field into an application. Check any role-specific requirement
 | Phone | 07833 357277 |
 | Address | 6 Clarence Grove, Shirley, Solihull, West Midlands, B90 3HZ |
 | Nationality | British |
+| Country of birth | United Kingdom (confirmed 2026-10-26) |
+| Wise customer | No (confirmed 2026-10-26) |
+| Can reach sites hard to reach by public transport | Yes (confirmed 2026-10-26) |
 | Right to work in the UK | Yes, unrestricted |
 | UK visa required | No |
 | Need sponsorship? | No |
@@ -53,7 +56,7 @@ I am a British citizen with unrestricted right to work in the United Kingdom and
 | GCSE Mathematics | 4 (2019) |
 | GCSE English Language | 7 (2019) |
 | GCSE English Literature | 5 |
-| Other GCSEs | Not provided; supply additional results only if requested |
+| Other GCSEs | 6 GCSEs in total (confirmed 2026-10-26); other subjects/grades not provided |
 
 Note: a few schemes set GCSE Maths at grade 5 or B minimum. Where the listing states that, mark it `skipped-ineligible` rather than apply.
 
