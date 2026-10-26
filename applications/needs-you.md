@@ -44,3 +44,4 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 - **Netcalibre – Junior Systems & Field Engineer** (https://www.linkedin.com/jobs/view/4482057541/): *"Tell us what you've been tinkering with: a home lab, a project you're proud of, something you broke and fixed…"* (there's also an optional extra upload).
 - **Nu Quantum – FPGA Engineer, Quantum Networking (Early Career)** (https://www.linkedin.com/jobs/view/4479509877/): *"What interests you about this role as an FPGA Design Engineer at Nu Quantum?"*
 - **Precision Acoustics**: applied via Easy Apply, but the advert also says to apply by emailing jobs@acoustics.co.uk. Optionally send your CV there too.
+- **One Big Circle – Junior Device Software Developer** (Bristol, https://www.linkedin.com/jobs/view/4408403004/): it asks which area of Bristol you live in. Skipped, since you're in Solihull. Apply yourself if you'd relocate.
