@@ -55,3 +55,6 @@ I developed a MATLAB simulation using a nine-state nonlinear differential equati
 One of the main challenges was translating the theoretical circuit into a functioning numerical model and troubleshooting differences between simulated and reference results. The completed simulation produced an output voltage of approximately 261.6 V, within 3.2% of the 270 V reference.
 
 The project strengthened my understanding of power electronics, circuit modelling, numerical methods, technical documentation and independent engineering problem-solving.
+
+## Graphcore Drivers & Utilities — what you would do differently (user, 2026-10-26)
+If I were to approach the project again, I’d introduce automated testing and version control earlier, validating individual components of the MATLAB simulation before integrating the complete system. I’d also perform more extensive parameter sweeps and edge-case testing to identify numerical errors sooner, improve reliability and make the results easier to reproduce.
