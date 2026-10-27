@@ -1,52 +1,18 @@
-# LinkedIn Easy Apply queue — the daily limit was hit 2026-10-26. Resume from the top. Format: id | title | company
-4481571493 | Graduate Hardware Engineer | Octopus Energy (answers in user-written-answers.md)
-4482057541 | Junior Systems & Field Engineer | Netcalibre (tinkering answer ready)
-4479509877 | FPGA Engineer - Quantum Networking | Nu Quantum (answer ready)
-4468166426 | Associate Software Development Engineer (June 2027) | Clearwater Analytics
-4435122685 | Graduate Layout Engineer | IC Resources
-4479056526 | Junior / Graduate AI Engineer | Enablis (London)
-4479431076 | Junior Software Engineer | Oliver Bernard
-4480469443 | Graduate Engineer | Octagon Group
-4453875460 | Junior Java Engineer | Quant Capital
-4478503147 | Junior Software Developer (Java) | LMAX Group
-4479413789 | Junior Software Engineer | Bright Purple
-4483355563 | Junior Developer | Referment
-4481688867 | Junior Software Developer | 2 Sisters Food Group
-4472707092 | Junior C# Full Stack Engineer | Harnham
-4482862413 | Junior Software Developer | Verticode
-4482089627 | Junior Software Developer | WPA Health Insurance
-4483119067 | Junior Data Analyst | Dexter Talent
-4476462300 | Graduate Analyst | Tarka Talent
-4481152901 | Junior Data Analyst | Hirevantis
-4478595105 | Graduate Data & Insight Analyst | THG
-4478100645 | Junior Design Engineer | Sapien Engineering
-4478875026 | Junior Production Engineer | Auxo Talent
-4482896742 | Junior Software Engineer | Burns Sheehan
-4480065235 | Junior Python Developer | Tenth Revolution Group
-4474754593 | Junior Data Engineer | Mirai Talent
-4449868298 | Graduate R&D Software Engineer | Quell
-4483557408 | Junior Analyst | AENDRE
-4430497688 | Technology Graduate Analyst | Capula
-4480038552 | Junior Software Engineer | TEG.tech
-4480682142 | Graduate Software Engineer / Quant Developer | Hunter Bond
-4482058477 | Junior Python Developer | Albany Beck
-4477721046 | Graduate/Junior Applied AI Engineer | Xapien
-4480023601 | Junior AI/ML Engineer - Computer Vision | NearTech Search
-4469362054 | Junior ServiceNow Consultant | Version 1
-4478654296 | Junior Software Engineer | AGS
-4440437904 | Research Developer - Graduate | Quant Capital
-4478626136 | Junior Python Developer | Information Tech Consultants
-4452430811 | Graduate Analog IC Design Engineer | IC Resources
-4481460895 | Junior Data Engineer | Switch Tech Talent
-4479278731 | Graduate Machine Learning Researcher | Longshot Systems
-4481551053 | Graduate HPC Software Engineer | HMx Labs
-4478549350 | Junior Infrastructure Engineer | SCG Connected
-4417609859 | Junior Application Support Engineer | Quant Capital
-4479524400 | Junior DevOps Engineer | HCLTech
-4479296336 | Graduate Design Engineer | Triumph Motorcycles
-# IT / data roles added 2026-10-26
-4478979336 | Junior Data Scientist | (Easy Apply)
-3830991172 | Entry Level Consulting Analyst | (Easy Apply)
-4483238233 | Graduate Business Analyst (Management Sciences) | (Easy Apply)
-4482871196 | Junior Market Research (insight) | (Easy Apply)
-4476644693 | AI & Business Solutions Graduate | Beaconsfield (Easy Apply)
+# Easy Apply queue (updated 2026-10-27, limit hit again)
+## UK
+4478979336 Junior Data Scientist
+3830991172 Entry Level Consulting Analyst (Roberts Group Consulting)
+4483238233
+4482871196
+4476644693
+## Kuwait
+4470859329 MAF IT Officer (Easy Apply version)
+4474679826 Field IT Support Engineer
+4483522832 API & Integration Developer
+4479795479 Junior Shopify Front-End Developer
+4471080902 Data Scientist (internship)
+## Pending your input
+4479056526 Enablis AI Engineer - AI-tool experience questions
+4430497688 Capula - 300-word essay
+4480038552 TEG.tech - A-level results question
+4477721046 Applied AI Engineer - LLM/RAG years

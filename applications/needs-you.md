@@ -51,3 +51,12 @@ Roles I couldn't finish without you. Sign in / register inside the Claude browse
 - Account-only (sign up yourself if you want them): SLB Early Careers – Field Operations (apply.slb.com), stc Kuwait Talent Pipeline – Technology / AI & Data Science (stckw.taleo.net jobs 21183, 21203), GulfTalent / Naukrigulf junior engineer listings.
 - LinkedIn Easy Apply (Kuwait, queue for when the daily limit resets): 4470859329 IT Officer (0–2 yrs), 4474679826 Field IT Support Engineer, 4473602860 Strategy Specialist I, 4483522832 API & Integration Developer, 4479795479 Junior Shopify Front-End Developer, 4471080902 Data Scientist (internship).
 - Excluded: most "junior" Kuwait posts ask for 3–7 yrs (PMI Graduate Trainee 3–4 yrs, Halliburton, KDD, KCS, Accenture SOC 1–3 yrs) or are Kuwaiti-nationals-only.
+
+## Easy Apply 2026-10-27 - errors to fix (autofill mistakes)
+- **Harnham – Junior C# Full Stack Engineer**: answered "Did you achieve a 1st class?" = **Yes** (you have a 2:1). Rule fixed. Consider messaging the recruiter / withdrawing.
+- **THG – Graduate Data & Insight Analyst**: current salary entered as **30000** (should be 9,744) and a "collaborative working… are you…" question got "B90 3HZ". Rules fixed.
+## Easy Apply questions waiting for you
+- Enablis (AI Engineer): have you built personal projects with AI coding tools / LLM APIs / agents? hours per week?
+- Applied AI Engineer (4477721046): familiar with LLMs & RAG, how many years?
+- Capula Technology Graduate Analyst: 300-word "why Capula + what you'd bring" (your words).
+- TEG.tech Junior Software Engineer: "2:1 AND the required A-level results?" - their A-level bar is unknown; you have BTEC DMM (112 UCAS). Yes or No?
